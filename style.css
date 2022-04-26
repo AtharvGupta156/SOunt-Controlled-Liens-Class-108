@@ -1,0 +1,34 @@
+body {
+    font-family:'Cedarville Cursive', cursive; ;
+
+}
+
+.header_div {
+    background-color: chartreuse;
+    color: brown;
+}
+
+.header_div p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size : 12px;
+}
+
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(245, 235, 98);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px;
+}
